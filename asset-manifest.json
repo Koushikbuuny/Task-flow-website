@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-flow-website/static/css/main.e48bfa77.css",
+    "main.js": "/Task-flow-website/static/js/main.502db4a2.js",
+    "index.html": "/Task-flow-website/index.html",
+    "main.e48bfa77.css.map": "/Task-flow-website/static/css/main.e48bfa77.css.map",
+    "main.502db4a2.js.map": "/Task-flow-website/static/js/main.502db4a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e48bfa77.css",
+    "static/js/main.502db4a2.js"
+  ]
+}
